@@ -1,0 +1,34 @@
+{
+  "@@locale": "en-US",
+  "187187500641108332": "{$INTERPOLATION}",
+  "@187187500641108332": {
+    "x-locations": [
+      {
+        "file": "src/app/app.component.html",
+        "start": { "line": "2", "column": "9" },
+        "end": { "line": "2", "column": "20" }
+      }
+    ]
+  },
+  "4722398560731767889": "Hello World!!!",
+  "@4722398560731767889": {
+    "x-locations": [
+      {
+        "file": "src/app/app.component.html",
+        "start": { "line": "4", "column": "9" },
+        "end": { "line": "4", "column": "23" }
+      }
+    ]
+  },
+  "3160372478327153623": " I am lucky!\n",
+  "@3160372478327153623": {
+    "description": "This is a button you click when you feel lucky, but nothing happens and you start feeling unlucky >:)",
+    "x-locations": [
+      {
+        "file": "src/app/app.component.html",
+        "start": { "line": "7", "column": "111" },
+        "end": { "line": "9", "column": "0" }
+      }
+    ]
+  }
+}

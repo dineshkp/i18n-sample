@@ -99,6 +99,26 @@
             "scripts": []
           }
         }
+      },
+      "i18n": {
+        "sourceLocale": {
+          "code": "en-US",
+          "baseHref": ""
+        },
+        "locales": {
+          "fr": {
+            "translation": "src/locale/translation.fr.abr",
+            "baseHref": "fr"
+          },
+          "ta": {
+            "translation": "src/locale/translation.ta.abr",
+            "baseHref": "ta"
+          },
+          "sv": {
+            "translation": "src/locale/translation.sv.abr",
+            "baseHref": "sv"
+          }
+        }
       }
     }
   },
